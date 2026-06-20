@@ -15,9 +15,9 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Zygo — Tu asistente proactivo en cada chat",
+  title: "Zygo — El asistente personal a tu alcance",
   description:
-    "Un asistente proactivo que vive en WhatsApp, iMessage y las apps de mensajería que ya usas.",
+    "Cuéntale tu vida por Telegram como a un colega y deja de apuntar cosas en notas que no abres jamás. Gym, gastos, recordatorios — se encarga él.",
 };
 
 export default function RootLayout({
